@@ -3,14 +3,14 @@ title: 'Amazon RDS'
 date: '`r Sys.Date()`'
 weight: 2
 chapter: false
-pre: ' <b> 1.2 </b> '
+pre: ' <b> 1.2. </b> '
 ---
 
 #### Definition
 
 **Amazon Relational Database Service (Amazon RDS)** is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Amazon RDS supports several popular database engines, such as MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB.
 
-![Amazon RDS](/images/AmazonRDS.png)
+![Amazon RDS](../../images/AmazonRDS.png)
 
 #### Benifits
 

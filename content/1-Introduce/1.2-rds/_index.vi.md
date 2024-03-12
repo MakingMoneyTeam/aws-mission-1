@@ -3,14 +3,14 @@ title: 'Amazon RDS'
 date: '`r Sys.Date()`'
 weight: 2
 chapter: false
-pre: ' <b> 1.2 </b> '
+pre: ' <b> 1.2. </b> '
 ---
 
 #### Định nghĩa
 
 **Amazon Relational Database Service (Amazon RDS)** là một tập hợp các dịch vụ được quản lý giúp đơn giản hóa việc thiết lập, vận hành và mở rộng quy mô cơ sở dữ liệu trên đám mây. Amazon RDS hỗ trợ nhiều engine database phổ biến, chẳng hạn như MySQL, PostgreSQL, Oracle, SQL Server và MariaDB.
 
-![Amazon RDS](/images/AmazonRDS.png)
+![Amazon RDS](../../../images/AmazonRDS.png)
 
 #### Lợi ích
 
