@@ -10,7 +10,7 @@ pre: ' <b> 1.1 </b> '
 
 **CloudFormation** là một dịch vụ **Infrastructure as Code (IaC)** được cung cấp bởi Amazon Web Services (AWS). Nó cho phép bạn định nghĩa và quản lý toàn bộ infrastructure trên AWS của mình bằng cách sử dụng các template dễ đọc viết bằng định dạng JSON hoặc YAML.
 
-![CloudFormation](/images/Working-of-AWS-CloudFormation.png)
+![CloudFormation](../../../static/images/Working-of-AWS-CloudFormation.png)
 
 #### Lợi ích
 
