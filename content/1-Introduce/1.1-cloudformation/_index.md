@@ -10,7 +10,7 @@ pre: ' <b> 1.1 </b> '
 
 **CloudFormation** is an **Infrastructure as Code (IaC)** service offered by Amazon Web Services (AWS). It allows you to define and manage your entire AWS infrastructure using human-readable templates written in JSON or YAML format.
 
-![CloudFormation](../../../static/images/Working-of-AWS-CloudFormation.png)
+![CloudFormation](/images/Working-of-AWS-CloudFormation.png)
 
 #### Benifits
 

@@ -10,7 +10,7 @@ pre: ' <b> 1.2 </b> '
 
 **Amazon Relational Database Service (Amazon RDS)** is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Amazon RDS supports several popular database engines, such as MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB.
 
-![Amazon RDS](../../../static/images/AmazonRDS.png)
+![Amazon RDS](/images/AmazonRDS.png)
 
 #### Benifits
 
