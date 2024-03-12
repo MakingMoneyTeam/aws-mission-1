@@ -15,6 +15,7 @@ home = [ "HTML", "RSS", "JSON"]
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
+  disableLandingPageButton = true
   
 [Languages]
 [Languages.en]
