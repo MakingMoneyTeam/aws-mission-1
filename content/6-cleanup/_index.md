@@ -17,14 +17,14 @@ Please follow these step to clean up the resource:
 - Click **Manage Instance State**.
 - Select **Terminate**.
 - Click **Change State**.
-  ![Deployment](../../images/cleanup_1.png)
+  ![Deployment](../images/cleanup_1.png)
 
 2. Delete Stack of CloudFormation
 
 - Access **CloudFormation console**.
 - Choose the **stack** relating to lab.
 - Click **delete**.
-  ![Deployment](../../images/cleanup_2.png)
+  ![Deployment](../images/cleanup_2.png)
 
 3. Delete the VPC
 
@@ -45,9 +45,9 @@ When you delete **Stack** and **VPC** respectively, all related resources such a
 - Click **Delete**.
 - Enter `delete me` in the empty field.
 - Click **Delete**.
-  ![Deployment](../../images/cleanup_3.png)
+  ![Deployment](../images/cleanup_3.png)
 - You also need to access **Subnet groups** and **delete** the related one.
-  ![Deployment](../../images/cleanup_4.png)
+  ![Deployment](../images/cleanup_4.png)
 
 5. Delete RDS snapshots
 
@@ -57,7 +57,7 @@ When you delete **Stack** and **VPC** respectively, all related resources such a
 - Click **Actions**.
 - Click **Delete snapshot**.
 - Click **Delete**.
-  ![Deployment](../../images/cleanup_5.png)
+  ![Deployment](../images/cleanup_5.png)
 
 6. Delete Security groups
 
@@ -67,4 +67,4 @@ When you delete **Stack** and **VPC** respectively, all related resources such a
 - Click **Actions**.
 - Click **Delete security groups**.
 - Click **Delete**.
-  ![Deployment](../../images/cleanup_6.png)
+  ![Deployment](../images/cleanup_6.png)
