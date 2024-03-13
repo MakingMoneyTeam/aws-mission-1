@@ -51,6 +51,10 @@ In this part, we create `backup.sql` storing data of the on-premise database and
   {{% /notice %}}
   ![Deployment](../../images/deploy_4.png?height=400)
 
+  Enter this command to check: 
+  ```sql
+  mysql —version
+  ```
 - Connect to the **RDS DB instance**. Enter the following command. This action lets you connect to the RDS DB instance using the **MySQL client**.
 
   - Go to the RDS instance which you created and copy the endpoint.

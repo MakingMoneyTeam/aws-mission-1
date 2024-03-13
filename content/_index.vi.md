@@ -9,7 +9,9 @@ chapter: false
 
 ### Tổng quan
 
-Trong bài lab này, bạn sẽ tìm hiểu các khái niệm cơ bản và thực hành về Amazon System Manager - Session Management. Thực hành tạo kết nối đến máy chủ public và máy chủ private trong VPC.
+Dự án này là một phần trong chương trình giảng dạy của trường chúng tôi và đánh dấu nỗ lực đầu tiên của chúng tôi trong việc triển khai dự án đến người dùng cuối. Trong buổi workshop này, chúng tôi sẽ hướng dẫn triển khai một dự án Spring Boot và MySQL sử dụng các dịch vụ của AWS.
+
+Đây là một trong những phương pháp triển khai đơn giản nhất, nhưng nó có nhiều hạn chế trong quy trình CI/CD của sản phẩm. Trong tương lai, chúng tôi hy vọng có thể tận dụng nhiều dịch vụ AWS hơn như AWS Beanstalk, CodeCommit, CodeDeploy, v.v. để tối ưu hóa quy trình CI/CD và đảm bảo tính khả dụng cao của hệ thống.
 
 ### Nội dung
 

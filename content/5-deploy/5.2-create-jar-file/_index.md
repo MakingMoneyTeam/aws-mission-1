@@ -1,5 +1,5 @@
 ---
-title: 'Create jar file'
+title: 'Create JAR file'
 date: '`r Sys.Date()`'
 weight: 2
 chapter: false
@@ -8,6 +8,7 @@ pre: ' <b> 5.2 </b> '
 
 ### Create Jar file to deploy your application into EC2 instance
 
+- Access EC2 instance by **MobaXterm** 
 - Install **JDK 17**, or you can choose the other version of JDK which is suitable to your Java version.
 
 ```

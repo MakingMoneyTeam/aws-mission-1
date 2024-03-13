@@ -10,12 +10,10 @@ pre: ' <b> 2.1. </b> '
 
 - You can use the template and modify it from the [CloudFormation Document](https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html).
 
-- Or you can use the template that we provide in our [source code]().
+- Or you can use the template that we provide in our [source code](https://github.com/MakingMoneyTeam/cheese-bistro).
 
-With our provided template, it deploys a VPC, with a public and a pair of private subnets spread across two **Availability Zones (AZ)**.
 
-It deploys an **internet gateway**, with a default route on the public subnets.
-
+With our provided template, it deploys a VPC, with a public and a pair of private subnets spread across two **Availability Zones**, an **Internet Gateway** with a default route on the public subnets. 
 #### The configuration includes:
 
 - EnvironmentName: `JourneyToCloud`

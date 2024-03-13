@@ -34,6 +34,9 @@ pre: ' <b> 3. </b> '
 
   - Key pair name: Choose the available key pair or create a new key pair with **.pem** format
     ![EC2](../images/ec2_5.png)
+  {{% notice note %}}
+  A key pair consists of a public key and a private key that are used to encrypt and decrypt the communication between your instance and your device. You’ll need to download and save the private key file (.pem) to your device and change its permissions to make it readable only by you. You’ll also need to use a terminal or a shell program that supports SSH, such as PuTTY or Git Bash.
+  {{% /notice %}}
 
 - **Network settings**
 

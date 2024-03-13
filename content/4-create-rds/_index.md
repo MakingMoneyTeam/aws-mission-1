@@ -55,6 +55,9 @@ pre: ' <b> 4. </b> '
 - Existing DB subnet groups: **db-subnet-groups** (this is group subnet that we created in the preparation)
 - VPC security group (firewall): **Create new**
 - New VPC security group name: `rds-ec2-sg`
+{{% notice note %}}
+This will create a new security group that allows inbound traffic on port 3306 (the default port for MySQL) from any IP address. You can also choose **Choose existing** and select an existing security group that has the same rule. You can also modify the rule later to limit access to your database from specific IP addresses or CIDR blocks.
+{{% /notice %}}
   ![RDS](../images/rds_9.png?height=500)
 
 - **Database authentication**
