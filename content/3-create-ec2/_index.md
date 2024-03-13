@@ -18,7 +18,7 @@ pre: ' <b> 3. </b> '
 
 - **Name and tags**
 
-  - name: ec2-application
+  - name: `ec2-application`
     ![EC2](../images/ec2_3.png)
 
 - **Application and OS Images (Amazon Machine Image)**
@@ -47,3 +47,11 @@ pre: ' <b> 3. </b> '
 
 - Click **Launch instance**
   ![EC2](../images/ec2_7.png)
+
+- Back to your **EC2 console**.
+
+  - In the navigation pane, choose **Instances** and select the instance that you created in the previous section. Then from Actions choose **Security**, and **Modify IAM Role**.
+    ![EC2](../images/ec2_8.png)
+
+  - On the **Modify IAM Role** page, choose the role that you created in the previous steps from the **IAM role** dropdown list. Then choose **Apply**.
+    ![EC2](../images/ec2_9.png)
